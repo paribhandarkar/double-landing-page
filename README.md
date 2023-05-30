@@ -23,3 +23,5 @@ To get started with this project, clone the repository and open the `index.html`
 ## New Things I Learned
 
 I learned about the "mouseenter" and "mouseleave" events in JavaScript. These events are used to detect when the mouse enters or leaves an HTML element. They are commonly used in web development to trigger various actions such as showing or hiding elements, changing the appearance of elements, or modifying the behavior of an element in response to user interaction. These events are important for creating interactive web applications or improving the user experience of a website.
+
+![image](https://github.com/paribhandarkar/double-landing-page/assets/76446574/bf102f32-388b-4556-8f85-e95f5e3ec377)
